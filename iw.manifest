@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Last Updated On 2012-04-16 (This helps browser to invalidate cache even when only the 'content' of files has changed while 'name' of cache files are unchanged.)
+
+CACHE:
+assets/ssc_core_lib.min.css
+assets/ssc_core_lib.min.js
+powered-by-spreadsheetconverter.png
+assets/images/ajax-loader.png
+assets/images/icons-18-black.png
+assets/images/icons-18-white.png
+assets/images/icons-36-black.png
+assets/images/icons-36-white.png
+assets/images/checkbox.png
